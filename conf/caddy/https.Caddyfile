@@ -1,4 +1,4 @@
-example.domain {
+example.domain:9000 {
     file_server {
         root /var/www/v2ray
     }
